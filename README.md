@@ -1,23 +1,53 @@
-<h1 align="center" style="font-family:'Fira Code', monospace; font-weight:bold;">
-  Hi 👋, I'm Muhammad Rafif Al Fauzan
-</h1>
-<h3 align="center" style="font-family:'Fira Code', monospace; font-weight:bold;">
-  A Student of IDN Boarding School
-</h3>
+<h1 align="center">👋 Hi, I'm <b>Muhammad Rafif Al Fauzan</b></h1>
+<h3 align="center">🚀 Student at IDN Boarding School | Aspiring Programmer & Designer</h3>
+
+## 🔥 About Me
+- 💻 Love exploring **Programming & UI/UX Design**  
+- 🌱 Currently learning **Dart, HTML, CSS, and Figma**  
+- 🤖 Interested in **Robotics & Creative Tech Projects**  
+- 🎯 Goal: Becoming a **Software Engineer & Designer**  
+- ⚡ Fun fact: I enjoy mixing **code with creativity**  
 
 ---
 
-<p align="center" style="font-family:'Fira Code', monospace; font-size:18px; font-weight:bold;">
-🚀 Languages & Tools:
+## 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,html,css,figma" height="50"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <!-- Dart -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-  <!-- Figma -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafif-al&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafif-al&theme=radical&hide_border=true" height="165" alt="streak"/>
+</p>
+
+---
+
+## 🌟 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafif-al&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## ✨ Inspiring Quote
+<p align="center">
+  <i><b>"Keep Learning, Keep Growing, Keep Building."</b></i>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/rafifalfuazan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
