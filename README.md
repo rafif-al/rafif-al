@@ -1,21 +1,10 @@
 <h1 align="center">👋 Hi, I'm <b>Muhammad Rafif Al Fauzan</b></h1>
 <h3 align="center">🚀 Student at IDN Boarding School | Aspiring Programmer & Designer</h3>
 
-## 🔥 About Me
-- 💻 Love exploring **Programming & UI/UX Design**  
-- 🌱 Currently learning **Dart, HTML, CSS, and Figma**  
-- 🤖 Interested in **Robotics & Creative Tech Projects**  
-- 🎯 Goal: Becoming a **Software Engineer & Designer**  
-- ⚡ Fun fact: I enjoy mixing **code with creativity**  
-
----
-
 ## 🚀 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,html,css,figma" height="50"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -23,14 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafif-al&theme=radical&hide_border=true" height="165" alt="streak"/>
 </p>
 
----
-
 ## 🌟 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafif-al&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
----
 
 ## ✨ Inspiring Quote
 <p align="center">
