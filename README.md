@@ -21,9 +21,3 @@
   <!-- Figma -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Keep+Learning,+Keep+Growing.&author=M.Rafif+Al+Fauzan" alt="inspirational quote" />
-</p>
